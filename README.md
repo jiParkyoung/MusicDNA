@@ -1,5 +1,4 @@
-뮤직 DNA
-당신이 가장 좋아하는 음악을 독특한 방법으로 경험하세요.
+## 뮤직 DNA - 당신이 가장 좋아하는 음악을 독특한 방법으로 경험하세요.
 
 <img src = "https://github.com/harjot-oberai/MusicStreamer/blob/master/screenshots/splash.png" width = "800"><br><br>
 <a href='https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="200"/></a>
